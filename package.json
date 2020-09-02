@@ -1,5 +1,5 @@
 {
-  "name": "@joinbox/loopback-component-custom-headers",
+  "name": "@maugli-sbc/loopback-component-custom-headers",
   "version": "0.1.2",
   "description": "Adds custom headers to loopback responses according to the model configuration",
   "main": "index.js",
